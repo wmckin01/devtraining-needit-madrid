@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Needit Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-20 21:18:38</sys_created_on>
+        <sys_id>113392dadb3100102239f7af29961900</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Needit Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_113392dadb3100102239f7af29961900</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-20 21:44:16</sys_updated_on>
+        <title><![CDATA[<p><span style="text-align: left; color: #333333; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Gilroy-Bold,Arial,Helvetica,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 500; text-decoration: none; word-spacing: 0px; display: inline; white-space: normal; orphans: 2; float: none; -webkit-text-stroke-width: 0px; background-color: transparent;">Text for my choice. For auto Close Overdue tickets.</span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=113392dadb3100102239f7af29961900"/>
+</record_update>
